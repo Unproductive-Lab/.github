@@ -1,4 +1,4 @@
-## Unproductive Lab (or 107 Squad)
+** Unproductive Lab (or 107 Squad) **
 ... is a group of mediocre coders, looking to better their coding abilities through collaboration
 
 
