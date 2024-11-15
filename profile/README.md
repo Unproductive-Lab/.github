@@ -1,14 +1,9 @@
-**Unproductive Labs (or 107 Squad)** is a group of mediocre coders, looking to better their coding abilities through collaboration
+
+# 107 Squad (aka. Unproductive Lab) [![Repos Badge](https://badges.pufler.dev/repos/Unproductive-Lab)](https://badges.pufler.dev) 
+**...is a group of mediocre coders, looking to better their coding abilities through collaboration**
+### Founders
+ Лэп. (lap.) ![https://github.com/lap-does-things](https://img.shields.io/github/followers/lap-does-things?style=social) 
+EvstiAL
+ ![https://github.com/EvstiAL](https://img.shields.io/github/followers/EvstiAL?style=social)
 
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
